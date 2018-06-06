@@ -1,6 +1,4 @@
-# Final project
-
-#Design and Placement
+# Design and Placement of Weapon-detecting Cameras
 ## Installation of a Unit
 To keep the costs of installing and maintaining the camera systems affordable, we propose installing low-wattage (consumer-grade) cameras on top of lamp posts and wiring to their electric circuit. Installing on lamp posts is possible because they are designed to provide more power than the light bulb would need (San Francisco Public Utilities Commission, 2017). 
 <br><br>The setup for each lamp post would be two spherical cameras that can capture footage from all angles at once installed on opposite sides of the lamp posts underneath the light bulb. This configuration would ensure that there are no blind zones underneath the lamp posts compared to single camera configuration at the very top. Modern consumer-level cameras, such as Samsung Gear 360, require less than 5 watts to live stream footage, resulting in 10 watts maximum for two cameras on one lamp post. The cost of this configuration would be around $300 per system (or $150 per camera) (Samsung Electronics, 2017). 
